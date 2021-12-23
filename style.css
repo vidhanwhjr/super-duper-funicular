@@ -1,0 +1,22 @@
+.heading{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    font-size: large;
+}
+
+body{
+    background-size: cover;
+}
+
+.speed{
+    float: left;
+}
+.volume{
+    float: right;
+}
+
+img{
+    height:300px ;
+    width: 250px;
+}
